@@ -1,0 +1,11 @@
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/bin/Debug/net8.0/Contact.Models.deps.json
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/bin/Debug/net8.0/Contact.Models.dll
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/bin/Debug/net8.0/Contact.Models.pdb
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/obj/Debug/net8.0/Contact.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/obj/Debug/net8.0/Contact.Models.AssemblyInfoInputs.cache
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/obj/Debug/net8.0/Contact.Models.AssemblyInfo.cs
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/obj/Debug/net8.0/Contact.Models.csproj.CoreCompileInputs.cache
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/obj/Debug/net8.0/Contact.Models.dll
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/obj/Debug/net8.0/refint/Contact.Models.dll
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/obj/Debug/net8.0/Contact.Models.pdb
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Models/obj/Debug/net8.0/ref/Contact.Models.dll

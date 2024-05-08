@@ -1,0 +1,17 @@
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/bin/Debug/net8.0/Contact.Data.deps.json
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/bin/Debug/net8.0/Contact.Data.dll
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/bin/Debug/net8.0/Contact.Data.pdb
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/bin/Debug/net8.0/Contact.Models.dll
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/bin/Debug/net8.0/Contact.Models.pdb
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact.Data.csproj.AssemblyReference.cache
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact.Data.AssemblyInfoInputs.cache
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact.Data.AssemblyInfo.cs
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact.Data.csproj.CoreCompileInputs.cache
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact..604A17CB.Up2Date
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact.Data.dll
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/refint/Contact.Data.dll
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact.Data.pdb
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/ref/Contact.Data.dll
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/bin/Debug/net8.0/Contact.Data.runtimeconfig.json
+/Users/brianvelecela/Desktop/P1/Project1/Contact.Data/obj/Debug/net8.0/Contact.Data.genruntimeconfig.cache
